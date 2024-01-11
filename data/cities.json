@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -56,21 +44,78 @@
       "notes": "",
       "position": {
         "lat": 35.46635901755316,
-        "lng": -4.7133789062500004
+        "lng": -4.71337890625
       },
       "id": 17806757
     },
     {
-      "cityName": "Star Fleet Headquarters",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "La Chapelle-Montabourlet",
+      "country": "France",
+      "date": "2024-01-10T18:05:15.891Z",
+      "notes": "asdf",
       "position": {
-        "lat": 54.53586782505711,
-        "lng": 19.376933665713324
+        "lat": "45.39844997630411",
+        "lng": "0.4665899326838785"
       },
-      "id": 98443199
+      "id": 98443200
+    },
+    {
+      "cityName": "Lanaja",
+      "country": "Spain",
+      "date": "2024-01-10T18:09:13.070Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "41.77131167976407",
+        "lng": "-0.3698733034150626"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Lanaja",
+      "country": "Spain",
+      "date": "2024-01-10T18:09:13.070Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "41.77131167976407",
+        "lng": "-0.3698733034150626"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Sacramento",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-01-10T18:15:05.722Z",
+      "notes": "I live here",
+      "position": {
+        "lat": "38.41055825094609",
+        "lng": "-121.43325853765327"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Las Vegas",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-01-10T18:27:54.341Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "36.4566360115962",
+        "lng": "-114.40354777802104"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Deer Lodge",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-01-10T18:54:20.960Z",
+      "notes": "sadf",
+      "position": {
+        "lat": "46.31658418182218",
+        "lng": "-113.00030237521891"
+      },
+      "id": 98443207
     }
   ]
 }

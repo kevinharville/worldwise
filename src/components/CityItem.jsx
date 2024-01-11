@@ -11,8 +11,14 @@ const formatDate = (date) =>
   }).format(new Date(date));
 
 function CityItem({ city }) {
-  const { currentCity } = useCities();
+  const { currentCity, deleteCity } = useCities();
   const { cityName, emoji, date, id, position } = city;
+
+  function handleClick(e) {
+    e.preventDefault();
+    console.log("asdfasdf " + id);
+    deleteCity(id);
+  }
   return (
     <li>
       <Link
@@ -25,7 +31,12 @@ function CityItem({ city }) {
         <h3 className={styles.name}>{cityName}</h3>
 
         <time className={styles.date}>({formatDate(date)})</time>
-        <button className={styles.deleteBtn}>&times;</button>
+        <button
+          className={styles.deleteBtn}
+          onClick={(e) => handleClick(e, currentCity.id)}
+        >
+          &times;
+        </button>
       </Link>
     </li>
   );
