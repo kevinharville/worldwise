@@ -37,29 +37,6 @@
       "id": 73930382
     },
     {
-      "cityName": "My Town",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 35.46635901755316,
-        "lng": -4.71337890625
-      },
-      "id": 17806757
-    },
-    {
-      "cityName": "La Chapelle-Montabourlet",
-      "country": "France",
-      "date": "2024-01-10T18:05:15.891Z",
-      "notes": "asdf",
-      "position": {
-        "lat": "45.39844997630411",
-        "lng": "0.4665899326838785"
-      },
-      "id": 98443200
-    },
-    {
       "cityName": "Lanaja",
       "country": "Spain",
       "date": "2024-01-10T18:09:13.070Z",
@@ -69,17 +46,6 @@
         "lng": "-0.3698733034150626"
       },
       "id": 98443202
-    },
-    {
-      "cityName": "Lanaja",
-      "country": "Spain",
-      "date": "2024-01-10T18:09:13.070Z",
-      "notes": "asdf",
-      "position": {
-        "lat": "41.77131167976407",
-        "lng": "-0.3698733034150626"
-      },
-      "id": 98443203
     },
     {
       "cityName": "Sacramento",
@@ -106,16 +72,40 @@
       "id": 98443206
     },
     {
-      "cityName": "Deer Lodge",
+      "cityName": "Givry",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-11T19:50:23.510Z",
+      "notes": "didn't go",
+      "position": {
+        "lat": "46.78501604269256",
+        "lng": "4.7330125813135036"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Fortuna",
       "country": "United States of America (the)",
       "emoji": "🇺🇸",
-      "date": "2024-01-10T18:54:20.960Z",
-      "notes": "sadf",
+      "date": "2024-01-11T20:00:42.272Z",
+      "notes": "Hey!\n",
       "position": {
-        "lat": "46.31658418182218",
-        "lng": "-113.00030237521891"
+        "lat": "40.599356087965205",
+        "lng": "-124.15885510949275"
       },
-      "id": 98443207
+      "id": 98443209
+    },
+    {
+      "cityName": "Ferndale",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-01-11T20:01:25.041Z",
+      "notes": "",
+      "position": {
+        "lat": "40.462360281827976",
+        "lng": "-124.44648754326033"
+      },
+      "id": 98443210
     }
   ]
 }
